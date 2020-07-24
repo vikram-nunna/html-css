@@ -1,0 +1,25 @@
+<style>
+.centere {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.btn
+{
+	background-color:grey;
+    text-align: center;
+   
+}
+.buton
+{
+	
+	width : 350px;
+    margin: 0;
+  	position: absolute;
+  	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+</style>
